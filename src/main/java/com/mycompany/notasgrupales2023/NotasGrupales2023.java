@@ -49,6 +49,7 @@ public class NotasGrupales2023 {
         System.out.println("La media del grupo en el 2º trimestre es: " + mediaT2);
         System.out.println("La media del grupo en el 3º trimestre es: " + mediaT3);
         System.out.println("La media del alumno seleccionado es: " + mediaAlumno);
+        System.out.println("Fin");
     }
 
 }
